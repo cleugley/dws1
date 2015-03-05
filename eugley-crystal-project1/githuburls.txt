@@ -1,3 +1,3 @@
-https://github.com/cleugley/dws1/tree/gh-pages
+https://github.com/cleugley/dws1/tree/gh-pages/eugley-crystal-project1
 
-http://cleugley.github.io/dws1/Project%201/index.html
+http://cleugley.github.io/dws1/eugley-crystal-project1/index.html
