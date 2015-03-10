@@ -1,0 +1,26 @@
+body {
+	background-color: #FF8C00;
+}
+
+h1 {
+	color: #2E0927;
+	font-size: 48px;
+}
+
+#four, #two, #zero {
+	background-color: #D90000;
+	border-style: solid;
+	border-color: white;
+	color: white;
+	font-size: 24px;
+}
+
+#three, #one {
+	background-color: #04756F;
+	border-style: solid;
+	border-color: white;
+	color: white;
+	font-size: 24px;
+}
+
+
