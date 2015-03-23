@@ -1,0 +1,20 @@
+th {
+	text-align: left;
+}
+
+td {
+	text-align: right;
+}
+th td .even {
+	background-color: #f1f8fe;
+}
+th, td {
+	padding: 5px 30px 5px 10px;
+	font-size: 90%;
+	margin: 0;
+	background-color: #cbd2d8;
+	border-width; 1px 1px 1px 0px;
+	border-style: solid;
+	border-color: #f1f8fe #cbd2d8 #cbd2d8;
+	text-shadow: 1px 1px 1px #fff; 
+}
